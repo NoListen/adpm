@@ -1,0 +1,45 @@
+﻿生成启动时间为 2016/2/5 23:02:25。
+     1>项目“C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\PART_MODEL_V6\PART_MODEL_V6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\software\Visual Studio\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt functions\featpyramid2.cpp
+         featpyramid2.cpp
+     1>f:\software\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 F:\software\Visual Studio\VC\include\stdio.h(218) : 参见“fopen”的声明
+       Link:
+         F:\software\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Release\PART_MODEL_V6.exe" /INCREMENTAL:NO /NOLOGO opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib opencv_objdetect2410.lib opencv_ts2410.lib opencv_video2410.lib opencv_nonfree2410.lib opencv_ocl2410.lib opencv_photo2410.lib opencv_stitching2410.lib opencv_superres2410.lib opencv_videostab2410.lib opencv_calib3d2410.lib opencv_contrib2410.lib opencv_core2410.lib opencv_features2d2410.lib opencv_flann2410.lib opencv_gpu2410.lib opencv_highgui2410.lib opencv_imgproc2410.lib opencv_legacy2410.lib opencv_ml2410.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Release\PART_MODEL_V6.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Release\PART_MODEL_V6.lib" /MACHINE:X86 /SAFESEH Release\cascade_qt.obj
+         Release\draw_img.obj
+         Release\fconv_root_qt.obj
+         Release\featpyramid2.obj
+         Release\features2.obj
+         Release\fhog.obj
+         Release\filter2lut.obj
+         Release\qt.obj
+         Release\qtpyra.obj
+         Release\resize.obj
+         Release\PM_dem.obj
+         Release\commonCvFun.obj
+         Release\fconv.obj
+         Release\fconv_SSE.obj
+         Release\featpyramid.obj
+         Release\features.obj
+         Release\loadCscModel.obj
+         Release\loadPyramid.obj
+         Release\loc_feat.obj
+         Release\project.obj
+         Release\project_pyramid.obj
+         Release\bboxpred_get.obj
+         Release\bboxpred_input.obj
+         Release\clipboxes.obj
+         Release\getboxes.obj
+         Release\nms.obj
+         Release\showboxes.obj
+         Release\PartModel_main.obj
+         "Release\yuStdDirFiles_标准库目录操作.obj"
+         正在生成代码
+         已完成代码的生成
+         PART_MODEL_V6.vcxproj -> C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Release\PART_MODEL_V6.exe
+     1>已完成生成项目“C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\PART_MODEL_V6\PART_MODEL_V6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:08.81

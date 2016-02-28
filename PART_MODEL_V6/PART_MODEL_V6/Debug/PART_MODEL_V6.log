@@ -1,0 +1,67 @@
+﻿生成启动时间为 2015/12/30 16:24:32。
+     1>项目“C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\PART_MODEL_V6\PART_MODEL_V6.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         F:\software\Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt PM_dem.cpp functions\featpyramid2.cpp
+         featpyramid2.cpp
+     1>f:\software\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\software\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
+         PM_dem.cpp
+     1>f:\software\opencv\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 f:\software\visual studio\vc\include\stdio.h(218) : 参见“fopen”的声明
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(16): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(21): warning C4018: “<”: 有符号/无符号不匹配
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(29): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(30): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(32): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(33): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(35): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(36): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(38): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(39): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(40): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(41): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(42): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(43): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(44): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(45): warning C4305: “初始化”: 从“double”到“float”截断
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(70): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(283): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+     1>c:\users\nlisten\documents\visual studio 2012\projects\starcascade\part_model_v6\part_model_v6\pm_dem.cpp(292): warning C4244: “参数”: 从“unsigned int”转换到“float”，可能丢失数据
+         正在生成代码...
+       Link:
+         F:\software\Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Debug\PART_MODEL_V6.exe" /INCREMENTAL /NOLOGO opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib opencv_ml2410d.lib opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_objdetect2410d.lib opencv_ts2410d.lib opencv_video2410d.lib opencv_nonfree2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_videostab2410d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Debug\PART_MODEL_V6.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Debug\PART_MODEL_V6.lib" /MACHINE:X86 /SAFESEH Debug\cascade_qt.obj
+         Debug\draw_img.obj
+         Debug\fconv_root_qt.obj
+         Debug\featpyramid2.obj
+         Debug\features2.obj
+         Debug\fhog.obj
+         Debug\filter2lut.obj
+         Debug\qt.obj
+         Debug\qtpyra.obj
+         Debug\resize.obj
+         Debug\PM_dem.obj
+         Debug\commonCvFun.obj
+         Debug\fconv.obj
+         Debug\fconv_SSE.obj
+         Debug\featpyramid.obj
+         Debug\features.obj
+         Debug\loadCscModel.obj
+         Debug\loadPyramid.obj
+         Debug\loc_feat.obj
+         Debug\project.obj
+         Debug\project_pyramid.obj
+         Debug\bboxpred_get.obj
+         Debug\bboxpred_input.obj
+         Debug\clipboxes.obj
+         Debug\getboxes.obj
+         Debug\nms.obj
+         Debug\showboxes.obj
+         Debug\PartModel_main.obj
+         "Debug\yuStdDirFiles_标准库目录操作.obj"
+     1>cascade_qt.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         PART_MODEL_V6.vcxproj -> C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\Debug\PART_MODEL_V6.exe
+     1>已完成生成项目“C:\Users\NListen\Documents\Visual Studio 2012\Projects\StarCascade\PART_MODEL_V6\PART_MODEL_V6\PART_MODEL_V6.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.51
